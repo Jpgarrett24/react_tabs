@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-//tabs component
 const Tabs = (props) => {
     const { content } = props
     console.log(content);

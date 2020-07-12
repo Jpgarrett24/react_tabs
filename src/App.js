@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
 import Tabs from './components/Tabs';
-//tabs
 function App() {
   const [content, setContent] = useState([
     { text: "Tab 1 content is showing here." },
